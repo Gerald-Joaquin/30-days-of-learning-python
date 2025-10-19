@@ -1,5 +1,7 @@
 30-day Python learning plan
 
+
+
 Day 1: Introduction to Python
 Lesson: Read: Python Intro & Get Started.
 
